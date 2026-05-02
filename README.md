@@ -62,7 +62,7 @@ python run_meeting.py
 
 Sample Output
 A full example of multi-agent discussion and generated insights:
-👉 [View Sample Output](./organoid_discussion%20(1).md)
+👉 [View Sample Output](./sample_output.md)
 
 
 
